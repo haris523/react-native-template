@@ -1,11 +1,11 @@
 {
   "name": "@haris523/react-native-starter",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "React Native Template",
   "repository": "https://github.com/haris523/starter-project.git",
   "author": "Haris Handzic <handzicharis62@yahoo.com>",
   "license": "MIT",
   "bin": {
-    "multiply": "bin/index.js"
+    "@haris523/react-native-starter": "bin/index.js"
   }
 }
